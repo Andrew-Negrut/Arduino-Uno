@@ -1,2 +1,2 @@
 # Arduino-Uno
- A collection of Arduino projects.
+ A collection of Arduino Uno projects.
